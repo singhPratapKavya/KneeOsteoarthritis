@@ -26,3 +26,32 @@ Grade 3 (Moderate): Multiple osteophytes, definite joint space narrowing, with m
 
 
 Grade 4 (Severe): Large osteophytes, significant joint narrowing, and severe sclerosis.
+
+
+
+
+Model Performance
+
+
+my_model
+
+
+52/52 [==============================] - 17s 312ms/step - loss: 1.1381 - accuracy: 0.5731
+
+
+Test loss: 1.1380925178527832
+
+
+Test accuracy: 0.5730676054954529
+
+
+my_modelv2
+
+
+52/52 [==============================] - 7s 121ms/step - loss: 1.0527 - accuracy: 0.5592
+
+
+Test loss: 1.0527117252349854
+
+
+Test accuracy: 0.5591787695884705

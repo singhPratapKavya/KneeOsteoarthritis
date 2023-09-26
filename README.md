@@ -15,7 +15,15 @@ Content
 This dataset contains knee X-ray data for both knee joint detection and knee KL grading. The Grade descriptions are as follows:
 
 Grade 0: Healthy knee image.
+
+
 Grade 1 (Doubtful): Doubtful joint narrowing with possible osteophytic lipping
+
+
 Grade 2 (Minimal): Definite presence of osteophytes and possible joint space narrowing
+
+
 Grade 3 (Moderate): Multiple osteophytes, definite joint space narrowing, with mild sclerosis.
+
+
 Grade 4 (Severe): Large osteophytes, significant joint narrowing, and severe sclerosis.
